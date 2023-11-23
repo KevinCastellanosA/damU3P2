@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630778653426",
+    "project_id": "veterinaria19400547",
+    "storage_bucket": "veterinaria19400547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630778653426:android:e35b38ae9b98283b7c7e6b",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.practica32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rbENgRSJLqVeML8zPBbZERbWhx97Sp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
